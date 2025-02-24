@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Para", "Para.csproj", "{2D709E1B-3B94-43E7-A0A7-D29DBE4FA17D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ParaSETUP", "..\ParaSETUP\ParaSETUP.vdproj", "{999A82E8-3189-4ECC-AC71-19D4F30AB8CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D709E1B-3B94-43E7-A0A7-D29DBE4FA17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D709E1B-3B94-43E7-A0A7-D29DBE4FA17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D709E1B-3B94-43E7-A0A7-D29DBE4FA17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D709E1B-3B94-43E7-A0A7-D29DBE4FA17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999A82E8-3189-4ECC-AC71-19D4F30AB8CD}.Debug|Any CPU.ActiveCfg = Debug
+		{999A82E8-3189-4ECC-AC71-19D4F30AB8CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2E3074-78BF-4DD0-8479-B98906199E23}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+34723875010,74108520963Xx..,Data Source=durak;Initial Catalog=Para;Integrated Security=SSPI;,50,Para
